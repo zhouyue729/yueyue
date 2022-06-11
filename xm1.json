@@ -15,6 +15,8 @@
 "proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3pob3V5dWU3MjkuZ2l0aHViLmlvL3l1ZXl1ZS90di9saXZlLnR4dA=="
 ]}]}],
 
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3pob3V5dWU3MjkuZ2l0aHViLmlvL3l1ZXl1ZS90di9saXZlLnR4dA=="]}]}],
+
   
 "sites":[
 {"key":"csp_CZSPP","name":"🚬厂长资源","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,"ext":"موارد مدير المصنع"},
